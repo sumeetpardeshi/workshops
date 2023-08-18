@@ -44,6 +44,11 @@ $ go run .
 Hello, World!
 ```
 
+Note: incase of error 
+-: error obtaining VCS status: exit status 128
+        Use -buildvcs=false to disable VCS stamping. 
+try running: $git init
+
 [**Next Part :arrow_right:**](../02)
 
 [installation]: https://serviceweaver.dev/docs.html#installation
